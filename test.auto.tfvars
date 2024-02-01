@@ -1,3 +1,1 @@
-variable "test" {
-    type = string
-}
+test = 456
